@@ -1,0 +1,22 @@
+.operand{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7rem;
+    width:  7rem;
+    margin: 2rem;
+    background-color: rgb(171, 184, 70);
+    cursor:pointer;
+}
+.operator{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    width:  5rem;
+    margin: 1rem;
+    background-color: rgb(168, 72, 39);
+    cursor:pointer;
+}

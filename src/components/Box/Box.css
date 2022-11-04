@@ -1,0 +1,28 @@
+.box{
+    background-color: rgb(217, 220, 223);
+    margin: 2rem;
+    height: auto;
+    padding: 0.5rem;
+    width: 90vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.operators_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 2rem;
+}
+.sign_comparision{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.RHS{
+
+}
